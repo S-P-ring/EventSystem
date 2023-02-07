@@ -1,8 +1,8 @@
 # EventSystem
 >what it's about?
 ###This is an implementation of a simple event management application in which post requests come in.
->Installing
-git clone <repo>__
+##Installing
+git clone <repo> <br />
 cd <repo>__
 pip install virtualenv (if you don't already have virtualenv installed)__
 virtualenv venv to create your new environment (called 'venv' here)__
