@@ -1,4 +1,4 @@
-# FamousMen
+# EventSystem
 > What it's about?
 
 This is an implementation of a simple event management application in which post requests come in.
